@@ -3,7 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:spend_sense/components/widgets/bar_chart.dart';
 
 import 'package:spend_sense/components/widgets/history_card.dart';
 
@@ -129,7 +128,7 @@ class _ChartScreenState extends State<ChartScreen> {
             Container(
                 height: 300,
                 padding: const EdgeInsets.all(8.0),
-                child: TransactionChart()),
+            )
           ],
         ),
       ),
