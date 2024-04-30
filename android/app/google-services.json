@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386270081761",
+    "project_id": "spend-sense-7908e",
+    "storage_bucket": "spend-sense-7908e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386270081761:android:f9e3cce0fac95df671fda0",
+        "android_client_info": {
+          "package_name": "com.example.spend_sense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386270081761-0l70c2s551pga70edaq50t7un3bo1p3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUITH0a4mdaTVvFU15evXr_eR2A-RRxAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386270081761-0l70c2s551pga70edaq50t7un3bo1p3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
